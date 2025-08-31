@@ -82,7 +82,7 @@ curl -L https://raw.githubusercontent.com/homeqian96/flux-panel/refs/heads/main/
 #### 节点更新
 
 ```bash
-curl -L https://raw.githubusercontent.com/loadinghtml/flux-panel/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -L https://raw.githubusercontent.com/homeqian96/flux-panel/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 
 ```
 
